@@ -2,7 +2,6 @@
 ## My name is Lucas Dalan, I'm a student and developer 
 - :night_with_stars: I live in BRASIL in Sao Paulo.
 - :mortar_board: I'm studying computer science at UNIVEM - Marília
-- :globe_with_meridians: My main goal is to work with Blockchain development, but I would love to work in disruptive projects 
 
 
 ## Languages
