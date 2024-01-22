@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## My name is Lucas Dalan, I'm a student and developer 
 - :night_with_stars: I live in BRASIL in Sao Paulo.
-- :mortar_board: I'm studying computer science at UNIVEM - Marília
+- :mortar_board: I'm a computer Scientist, gratuated at UNIVEM - Marília
 
 
 ## Languages
