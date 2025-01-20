@@ -5,14 +5,13 @@
 
 
 ## Languages
-<img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E" height="30" style="max-width:100%;"></img>
-<img src="https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=nodejs&logoColor=F7DF1E" height="30" style="max-width:100%;"></img>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" style="max-width:100%;"></img>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=#3178C6" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E" height="30" style="max-width:100%;"></img>
 
 
 ## Frameworks 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=#000000" height="30" style="max-width:100%;"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasd09)](https://github.com/lucasd09/github-readme-stats)
 
