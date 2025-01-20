@@ -5,8 +5,8 @@
 
 
 ## Languages
-<img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=#3178C6" height="30" style="max-width:100%;"></img>
-<img src="https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=#3178C6" height="30" style="max-width:100%;"></img>
+<img src="https://img.shields.io/badge/NodeJS-20232A?style=for-the-badge&logo=nodedotjs&logoColor=#5FA04E" height="30" style="max-width:100%;"></img>
 
 
 ## Frameworks 
